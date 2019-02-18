@@ -1,0 +1,9 @@
+{
+  "statuscode": "00",
+  "message": "Success",
+  "object": [
+    {
+        "username":"disjateng"
+    }
+  ]
+}
